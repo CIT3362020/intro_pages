@@ -1,0 +1,33 @@
+.picture {
+    width: 100%;
+    border-radius: 20px;
+    margin: 5%;
+}
+#pictures {
+    width: 30%;
+    float: left;
+}
+#name {
+    font-family: 'Cedarville Cursive', cursive;
+    text-align: center;
+    color: white;
+    font-size: 72px;
+}
+#header {
+    background-color: black;
+    width: 100%;
+}
+h3 {
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 50px;
+    line-height: 10px;
+}
+p, ul {
+    font-family: 'Open Sans', sans-serif;
+    padding: 0% 5% 0% 5%;
+}
+#bio {
+    display: block;
+    width: 60%;
+    float: right;
+}
