@@ -1,0 +1,22 @@
+
+
+#name {
+    font-family: 'Montserrat';
+    text-align: center;
+    color:  palevioletred;
+    font-size: 60px;
+}
+#header {
+    background-color: lightpink;
+    width: 100%;
+}
+h3 {
+    font-family: 'Montserrat';
+    font-size: 20px;
+    line-height: 10px;
+    color: palevioletred
+}
+p, ul {
+    font-family: 'Montserrat';
+
+}
