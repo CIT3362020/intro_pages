@@ -1,0 +1,41 @@
+#header {
+    background-color:rgb(205, 236, 255);
+    width: 100%;
+}
+#name {
+    font-family: 'Poppins', serif;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    text-shadow: 4px 4px 4px rgb(119, 119, 119);
+}
+.picture {
+    width: 60%;
+    border-radius: 40px;
+    margin: 5%;
+}
+#pictures {
+    width: 30%;
+    float: right;
+}
+.picture2 {
+    width: 60%;
+    border-radius: 40px;
+    margin: 5%;
+}
+#about {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+h2 {
+    font-family: 'Poppins', serif;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    padding: 0% 40% 0% 10%;
+    text-align: center;
+}
