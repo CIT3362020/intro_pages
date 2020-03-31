@@ -1,0 +1,22 @@
+
+
+#name {
+    font-family: 'sans-serif';
+    text-align: center;
+    color:  white;
+    font-size: 60px;
+}
+#header {
+    background-color: royalblue;
+    width: 100%;
+}
+h3 {
+    font-family: 'sans-serif';
+    font-size: 20px;
+    line-height: 10px;
+    color: royalblue
+}
+p, ul {
+    font-family: 'sans-serif';
+
+}
