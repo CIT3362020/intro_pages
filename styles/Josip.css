@@ -1,0 +1,27 @@
+img {
+  height: 500px;
+  Width: 100%;
+}
+#name {
+    font-family: 'Bitter', serif;
+    text-align: center;
+    color: WHITE;
+    font-size: 72px;
+}
+#header {
+    background-color: purple;
+    width: 100%;
+}
+h3 {
+    font-family: 'Bitter', serif;
+    font-size: 50px;
+    line-height: 10px;
+}
+p, ul {
+    font-family: 'Bitter', serif;
+    padding: 0% 5% 0% 5%;
+}
+#bio {
+    display: block;
+    width: 100%;
+}
