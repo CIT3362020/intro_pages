@@ -25,3 +25,7 @@ p, ul {
     display: block;
     width: 100%;
 }
+#bio, img{
+  height:50%;
+  width:75%;
+}
